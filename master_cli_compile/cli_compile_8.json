@@ -76,7 +76,7 @@
                     },
 {"name": "SD/examples/SD_time",
                     "sizes": [{
-                            "flash_bytes": 922809,
+                            "flash_bytes": 922801,
                             "flash_percentage": 29,
                             "ram_bytes": 38464,
                             "ram_percentage": 11
@@ -509,7 +509,7 @@
                     },
 {"name": "LittleFS/examples/LITTLEFS_time",
                     "sizes": [{
-                            "flash_bytes": 947405,
+                            "flash_bytes": 947413,
                             "flash_percentage": 30,
                             "ram_bytes": 42228,
                             "ram_percentage": 12

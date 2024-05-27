@@ -485,7 +485,7 @@
                     },
 {"name": "AsyncUDP/examples/AsyncUDPMulticastServer",
                     "sizes": [{
-                            "flash_bytes": 887465,
+                            "flash_bytes": 887473,
                             "flash_percentage": 28,
                             "ram_bytes": 40508,
                             "ram_percentage": 12
